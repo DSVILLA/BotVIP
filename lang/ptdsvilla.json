@@ -102,7 +102,7 @@
     "cycleguardtime": "/me [@%%NAME%%] A proteção de ciclo agora é: %%TIME%% minuto(s).",
     "dclookuprank": "/me [@%%NAME%%] Somente Seguranças ou superiores podem usar !dclookup em outros usuários, seu falho.",
     "emojilist": "/me Emojis: %%LINK%%",
-    "notinwaitlist": "@%%NAME%%, você não está na lista de espera ,Simplismente não suporto que fica fora da lista.",
+    "notinwaitlist": "@%%NAME%%, você não está na lista de espera ,Palhaço :heavy_exclamation_mark: .",
     "eta": "/me @%%NAME%% todos verão seu nudes em, %%TIME%% <3.",
     "facebook": "/me Nem Tem Pagina Ainda",
     "starterhelp": "/me Essa imagem te ajudará a usar e entender o plug.dj: %%LINK%%",

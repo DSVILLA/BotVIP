@@ -60,7 +60,7 @@
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
-        chatLink: "https://rawgit.com/B1G-B0SS/Exercito-Bot/master/lang/pt.json",
+        chatLink: "https://raw.githubusercontent.com/DSVILLA/BotVIP/master/lang/pt.dsvilla",
         maximumAfk: 60,
         afkRemoval: false,
         maximumDc: 30,

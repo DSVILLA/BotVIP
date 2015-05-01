@@ -15,8 +15,8 @@
     "isblacklisted": "/me Essa música está na lista negra %%BLACKLIST%%! Pulando música...",
 
 
-    "isopen": "/me AEEEEEEEEe começou! Use !join para participar! você poderá ser movido para cima na fila, ou para baixo",
-    "winnerpicked": "/me O escolhido foi ! @%%NAME%% ganhou a posição %%POSITION%%, Parabens",
+    "isopen": "/me AEEEEEEEEe @djs e @everyone começou! Use !join para participar! você poderá ser movido para cima na fila, ou para baixo",
+    "winnerpicked": "/me O escolhido foi o EXU CHUPETA ! @%%NAME%% ganhou a posição %%POSITION%%, Parabens",
     
     "ball": "/me A pergunta do  %%NAME%% foi: \"%%QUESTION%%\" e a resposta de %%BOTNAME%% é: \"%%RESPONSE%%\"",
     "notghosting": "[%%NAME1%%] %%NAME2%% No seu cú de gordo.",
@@ -27,7 +27,7 @@
 
 
     "usernotfound": "/me User não encontrado.",
-    "notdisconnected": "/me @%%NAME%% Você não saiu enquanto estive por aqui.",
+    "notdisconnected": "/me @%%NAME%% Você não saiu enquanto estive por aqui FILHO DO CÂO CHUPETA.",
     "noposition": "/me Última posição não reconhecida. A fila de espera precisa ser atualizada pelo menos uma vez para registrar posições.",
     "toolongago": "/me @%%NAME%% Você saiu a bastante tempo sem essa de dc : %%TIME%%, não fode",
     "valid": "/me @%%NAME%% Saiu para pegar um peça a %%TIME%% atrás e deve ter posição %%POSITION%%.",
@@ -128,8 +128,8 @@
     "unmuted": "/me [@%%NAME%%] @%%USERNAME%% desmutado.",
     "muterank": "/me [@%%NAME%%] Você não pode mutar usuários do mesmo nível ou superior, SEU EXU GUEI!.",
     "oplist": "/me Lista OP: %%LINK%%",
-    "pong": "/me Pong NO TEU CU FILHO Do EXU NEGRO!",
-    "reload": "/me Vou queimar uns exu gay ali, voltou.......",
+    "pong": "/me PONG  NO TEU CU FILHO Do EXU NEGRO!",
+    "reload": "/me Vou queimar uns exu gay ali, :trollface: .......",
     "removenotinwl": "/me [@%%NAME%%] Usuário @%%USERNAME%% não está na fila de espera.",
     "roomrules": "/me Encontre as regras da sala aqui: %%LINK%%",
     "sessionstats": "/me [@%%NAME%%] Total woots: %%WOOTS%%, total mehs: %%MEHS%%, total grabs: %%GRABS%%.",

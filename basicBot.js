@@ -55,14 +55,14 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "DS BOT",
+        botName: "DEANSE VILLA BOT PREMIUM",
         language: "portuguese",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
         chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/ptdsvilla.json",
         maximumAfk: 60,
-        afkRemoval: false,
+        afkRemoval: true,
         maximumDc: 30,
         bouncerPlus: true,
         blacklistEnabled: true,
@@ -91,9 +91,9 @@
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
         motdEnabled: false,
-        motdInterval: 5,
-        motd: "Temporary Message of the Day",
-        filterChat: false,
+        motdInterval: 4,
+        motd: "!roulette",
+        filterChat: true,
         etaRestriction: false,
         welcome: true,
         opLink: null,

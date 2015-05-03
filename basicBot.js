@@ -177,7 +177,7 @@
         status: false,
         name: "basicBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/DSVILLA/BotVIP/master/basicBot.js",
+        scriptLink: "https://rawgit.com/DSVILLA/BotVIP/master/BasicBot.js",
         cmdLink: "http://git.io/veGHZ",
         chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/ptdsvilla.json",
         chat: null,

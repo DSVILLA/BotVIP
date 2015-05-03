@@ -1,0 +1,1 @@
+javascript:(function(){$.getScript('https://rawgit.com/DSVILLA/BotVIP/master/basicBot.js');})();

@@ -186,7 +186,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/motelbible/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/veGHZ",
-        chatLink: "https://rawgit.com/motelbible/basicBot/master/lang/pt.json",
+        chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/ptdsvilla.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,

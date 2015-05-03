@@ -61,7 +61,7 @@
         startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
         chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/ptdsvilla.json",
-        maximumAfk: 60,
+        maximumAfk: 60,			
         afkRemoval: true,
         maximumDc: 30,
         bouncerPlus: true,
@@ -113,6 +113,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/DSVILLA/BotVIP/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/motelbible/basicBot/master/basicBot.js", extend);
 
 }).call(this);

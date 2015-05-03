@@ -184,7 +184,7 @@
         status: false,
         name: "basicBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/motelbible/basicBot/master/basicBot.js",
+        scriptLink: "https://rawgit.com/DSVILLA/BotVIP/master/bot-costomiza-o/basicBot.js",
         cmdLink: "http://git.io/veGHZ",
         chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/ptdsvilla.json",
         chat: null,
@@ -227,8 +227,6 @@
         	["nsfw", "A música que você tocou é NSFW (impróprio). "],
         	["indisponivel", "A música que você tocou está indisponível. "]
             ],
-            amorzinho: [
-            	"Te amo Amor <3"]
             	
             ball: [
             "Os sinais apontam para sim.",

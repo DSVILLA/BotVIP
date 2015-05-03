@@ -227,6 +227,9 @@
         	["nsfw", "A música que você tocou é NSFW (impróprio). "],
         	["indisponivel", "A música que você tocou está indisponível. "]
             ],
+            amorzinho: [
+            	"Te amo Amor <3"]
+            	
             ball: [
             "Os sinais apontam para sim.",
             "Sim.",

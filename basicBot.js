@@ -113,6 +113,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://raw.githubusercontent.com/Yemasthui/basicBot/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/DSVILLA/BotVIP/master/basicBot-customization/extension.js", extend);
 
 }).call(this);

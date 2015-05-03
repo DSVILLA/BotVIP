@@ -57,7 +57,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "DEANSE VILLA BOT PREMIUM",
         language: "portuguese",
-        startupCap: 1, // 1-200
+        startupCap: 20, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
         chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/pt.json",
@@ -78,7 +78,7 @@
         autodisable: false,
         commandCooldown: 30,
         usercommandsEnabled: true,
-        lockskipPosition: 3,
+        lockskipPosition: 1,
         lockskipReasons: [
             ["theme", "This song does not fit the room theme. "],
             ["op", "This song is on the OP list. "],
@@ -90,18 +90,18 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
-        motdEnabled: false,
-        motdInterval: 4,
+        motdEnabled: true,
+        motdInterval: 2,
         motd: "!roulette",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
         opLink: null,
         rulesLink: "http://goo.gl/aApLNb",
-        themeLink: null,
-        fbLink: null,
-        youtubeLink: null,
-        website: null,
+        themeLink: true,
+        fbLink: true,
+        youtubeLink: true,
+        website: true,
         intervalMessages: [],
         messageInterval: 5,
         songstats: false,

@@ -18,6 +18,7 @@
     "isopen": "/me AEEEEEEEEe @djs e @everyone começou! Use !join para participar! você poderá ser movido para cima na fila, ou para baixo",
     "winnerpicked": "/me O escolhido foi o EXU CHUPETA ! @%%NAME%% ganhou a posição %%POSITION%%, Parabens",
     
+    "amorzinho": "/me @@%%NAMETO%%  @%%NAMEFROM%%  Disse que: \"%%RESPONSE%%\"",
     "ball": "/me A pergunta do  %%NAME%% foi: \"%%QUESTION%%\" e a resposta de %%BOTNAME%% é: \"%%RESPONSE%%\"",
     "notghosting": "[%%NAME1%%] %%NAME2%% No seu cú de gordo.",
     "ghosting": "[%%NAME1%%] %%NAME2%% Vai procura no google ngm aqui é seu empregado.",

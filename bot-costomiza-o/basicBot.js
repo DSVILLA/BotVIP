@@ -54,7 +54,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/DSVILLA/BotVIP/master/lang/Langindex.json", function (json) {
+        $.get("https://rawgit.com/motelbible/basicBot/master/lang/langIndex.json", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -184,23 +184,23 @@
         status: false,
         name: "basicBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/DSVILLA/BotVIP/master/bot-costomiza-o/basicBot.js",
+        scriptLink: "https://rawgit.com/motelbible/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/veGHZ",
-        chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/ptdsvilla.json",
+        chatLink: "https://rawgit.com/motelbible/basicBot/master/lang/pt.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "DEANSE VILLA BOT PREMIUM",
+            botName: "basicBot",
             language: "portuguese",
-            chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/ptdsvilla.json",
+            chatLink: "https://rawgit.com/motelbible/basicBot/master/lang/pt.json",
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
             startupEmoji: false, // true ou false
             cmdDeletion: true,
             maximumAfk: 120,
-            afkRemoval: false,
+            afkRemoval: true,
             maximumDc: 60,
             bouncerPlus: true,
             blacklistEnabled: true,

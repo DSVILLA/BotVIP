@@ -99,6 +99,7 @@
     "nousercookie": "/em Não vejo um User chamado %%NAME%% na sala. Então vou meter isso no seu Exu .",
     "selfcookie": "/me @%%NAME%%, você é EXU CACHUEIRA , DIVIDE COM OS OUTROS FILHO DO EXU, isso memo :blue_heart:",
     "cookie": "/me @%%NAMETO%%, @%%NAMEFROM%% %%COOKIE%%",
+    "amorzinho": "/me @%%NAMETO%%, @%%NAMEFROM%% %%AMORZINHO%%",
     "cycleguardtime": "/me [@%%NAME%%] A proteção de ciclo agora é: %%TIME%% minuto(s).",
     "dclookuprank": "/me [@%%NAME%%] Somente Seguranças ou superiores podem usar !dclookup em outros usuários, seu falho.",
     "emojilist": "/me Emojis: %%LINK%%",

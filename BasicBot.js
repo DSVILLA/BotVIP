@@ -60,7 +60,7 @@
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
-        chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/ptdsvilla.jso",
+        chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/ptdsvilla.json",
         maximumAfk: 60,			
         afkRemoval: false,
         maximumDc: 30,

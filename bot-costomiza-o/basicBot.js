@@ -194,7 +194,7 @@
         settings: {
             botName: "basicBot",
             language: "portuguese",
-            chatLink: "https://rawgit.com/motelbible/basicBot/master/lang/pt.json",
+            chatLink: "https://rawgit.com/DSVILLA/BotVIP/master/lang/ptdsvilla.json",
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
             startupEmoji: false, // true ou false

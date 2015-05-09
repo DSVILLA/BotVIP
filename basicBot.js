@@ -34,15 +34,15 @@
 
          */
 
-        bot.commands.amorzinhoCommand = {
-            command: ['amorzinho'],  //The command to be called. With the standard command literal this would be: !bacon
+        bot.commands.zoeiraCommand = {
+            command: ['zoeira'],  //The command to be called. With the standard command literal this would be: !bacon
             rank: 'user', //Minimum user permission to use the command
             type: 'exact', //Specify if it can accept variables or not (if so, these have to be handled yourself through the chat.message
             functionality: function (chat, cmd) {
                 if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                 if (!bot.commands.executable(this.rank, chat)) return void (0);
                 else {
-                    API.sendChat("/me To fazendo a poha do comando da pra espera? ousado,se é muito ousado sabia");
+                    API.sendChat("/me O Viadão do editor não terminou esse comando vai ter que espera -_-´ ");
                 }
             }
         };
@@ -55,7 +55,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "DEANSE VILLA BOT PREMIUM",
+        botName: "Comer Voces <3 BOT",
         language: "portuguese",
         startupCap: 20, // 1-200
         startupVolume: 0, // 0-100
@@ -91,13 +91,13 @@
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
         motdEnabled: true,
-        motdInterval: 2,
+        motdInterval: 10,
         motd: "!roulette",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: "http://goo.gl/aApLNb",
+        rulesLink: " Mais pra frente adiciono as regras enquanto isso bons modos seus viadoes",
         themeLink: true,
         fbLink: true,
         youtubeLink: true,
@@ -113,6 +113,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/DSVILLA/basicBot/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/B1G-B0SS/Exercito-Bot/master/basicBot.js", extend);
 
 }).call(this);

@@ -113,6 +113,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/B1G-B0SS/Exercito-Bot/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/DSVILLA/Exercito-Bot/master/basicBot.js", extend);
 
 }).call(this);
